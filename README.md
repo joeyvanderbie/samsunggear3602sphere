@@ -1,4 +1,4 @@
-# fusion2sphere for Samsung Gear360
+# Samsung Gear360 2 sphere - gear3602sphere
 This is a modified version the fusion2sphere code at https://github.com/trek-view/fusion2sphere
 
 modifications by
@@ -6,8 +6,9 @@ modifications by
 @date 2022-10-11
 @twitter @joeyvanderbie
 
-# gear360 specifics 
-Install fusion2sphere as you would normally do. (See installation section)
+Takes two raw Samsung Gear360 frames (for front and back camera) and converts them to a single equirectangular projection.
+
+Install gear3602sphere as you would normally do. (See installation section)
 To use the Gear360 settings and convert the fisheye photos,
 use the following command:
 
@@ -22,7 +23,6 @@ Originial readme below
 -----------------------
 # fusion2sphere
 
-Takes two raw GoPro Fusion frames (for front and back camera) and converts them to a single equirectangular projection.
 
 ## READ BEFORE YOU BEGIN
 

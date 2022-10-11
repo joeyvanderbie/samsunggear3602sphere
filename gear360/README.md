@@ -1,10 +1,12 @@
+# fusion2sphere for Samsung Gear360
 @author Joey van der Bie
 @date 2022-10-11
+@twitter @joeyvanderbie
 
 # gear360 specifics 
-
-To use the gear360 settings and conver the fisheye photos,
-user the following command
+Install fusion2sphere as you would normally do. (See installation section)
+To use the Gear360 settings and convert the fisheye photos,
+use the following command:
 
 ```shell
 $ ./fusion2sphere -b 5 -f inputImage.jpg inputImage.jpg -o outputImage.jpg gear360/gear360_photo.txt 
