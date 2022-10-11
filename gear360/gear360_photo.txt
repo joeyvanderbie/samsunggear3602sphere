@@ -1,0 +1,17 @@
+# left/front - 2896 x 2896
+IMAGE: 
+#2896/2=1448
+#35 (17+18) pixels ongeveer, dus 1448-34=1414
+RADIUS: 1425
+CENTER: 1448 1448
+FOV: 190
+
+# right/back - 2896 x 2896
+IMAGE: 
+RADIUS: 1430
+#2896+1448 = 4344
+CENTER: 4345 1471
+FOV: 190
+
+# recommended output width = 5760 (gives final dimensions of 5760 × 2880) -w 5760
+# 0.25 pt = 1440, 0.75 pt = 4320
