@@ -1,10 +1,10 @@
 # Samsung Gear360 2 sphere - gear3602sphere
 This is a modified version the fusion2sphere code at https://github.com/trek-view/fusion2sphere
 
-modifications by
-@author Joey van der Bie
-@date 2022-10-11
-@twitter @joeyvanderbie
+modifications by  
+@author Joey van der Bie  
+@date 2022-10-11  
+@twitter @joeyvanderbie  
 
 Takes two raw Samsung Gear360 frames (for front and back camera) and converts them to a single equirectangular projection.
 
